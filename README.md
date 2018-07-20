@@ -171,9 +171,11 @@ npm i bobolink
         
 7. 更多
 
-    + q.options：获取当前队列的配置。
-    + q.queueTaskSize：获取队列排队中的任务数。
-    + q.runningTaskCount：获取队列执行中的任务数。
+    |  方法 / 属性 | 用途 |
+    | ----- | ----- |
+    | q.options | 获取当前队列的配置
+    | q.queueTaskSize | 获取队列排队中的任务数 |
+    | q.runningTaskCount | 获取队列执行中的任务数 | 
 
     
 #### LICENSE
